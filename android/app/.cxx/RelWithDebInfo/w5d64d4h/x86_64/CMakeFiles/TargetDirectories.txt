@@ -1,0 +1,2 @@
+C:/Flutter-Space/ivr/android/app/.cxx/RelWithDebInfo/w5d64d4h/x86_64/CMakeFiles/edit_cache.dir
+C:/Flutter-Space/ivr/android/app/.cxx/RelWithDebInfo/w5d64d4h/x86_64/CMakeFiles/rebuild_cache.dir
