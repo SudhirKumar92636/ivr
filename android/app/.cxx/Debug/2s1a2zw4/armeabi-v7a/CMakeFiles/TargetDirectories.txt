@@ -1,0 +1,2 @@
+C:/Users/HP/Documents/ivr/android/app/.cxx/Debug/2s1a2zw4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/Documents/ivr/android/app/.cxx/Debug/2s1a2zw4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

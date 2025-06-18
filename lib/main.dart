@@ -5,7 +5,6 @@ import 'controller/bottom_navigation_controller.dart';
 import 'index.dart';
 
 void main(){
-  Get.put(BottomNavController());
   runApp(const MyApp());
 }
 class MyApp extends StatefulWidget {

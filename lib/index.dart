@@ -10,7 +10,7 @@ import 'package:new_test_app/view/utlis/app_color.dart'; // Importing AppColors
 import 'controller/bottom_navigation_controller.dart';
 
 class IndexScreen extends StatelessWidget {
-  final controller = Get.find<BottomNavController>();
+  final controller = Get.put(BottomNavController());
 
   final pages = [
     const CallHistoryScreen(),
